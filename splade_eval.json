@@ -1,0 +1,82 @@
+{
+  "Mean Average Precision (MAP)": {
+    "name": "Mean Average Precision (MAP)",
+    "score": 0.2564
+  },
+  "Mean Reciprocal Rank (MRR)": {
+    "name": "Mean Reciprocal Rank (MRR)",
+    "score": 0.5905
+  },
+  "Precision@1": {
+    "name": "Precision@1",
+    "score": 0.52
+  },
+  "Precision@5": {
+    "name": "Precision@5",
+    "score": 0.416
+  },
+  "Precision@10": {
+    "name": "Precision@10",
+    "score": 0.38
+  },
+  "Precision@20": {
+    "name": "Precision@20",
+    "score": 0.324
+  },
+  "Precision@50": {
+    "name": "Precision@50",
+    "score": 0.2276
+  },
+  "Precision@100": {
+    "name": "Precision@100",
+    "score": 0.1476
+  },
+  "Recall@1": {
+    "name": "Recall@1",
+    "score": 0.0301
+  },
+  "Recall@5": {
+    "name": "Recall@5",
+    "score": 0.1112
+  },
+  "Recall@10": {
+    "name": "Recall@10",
+    "score": 0.1816
+  },
+  "Recall@20": {
+    "name": "Recall@20",
+    "score": 0.2644
+  },
+  "Recall@50": {
+    "name": "Recall@50",
+    "score": 0.4189
+  },
+  "Recall@100": {
+    "name": "Recall@100",
+    "score": 0.5097
+  },
+  "NDCG@1": {
+    "name": "NDCG@1",
+    "score": 0.43
+  },
+  "NDCG@5": {
+    "name": "NDCG@5",
+    "score": 0.3857
+  },
+  "NDCG@10": {
+    "name": "NDCG@10",
+    "score": 0.3846
+  },
+  "NDCG@20": {
+    "name": "NDCG@20",
+    "score": 0.3966
+  },
+  "NDCG@50": {
+    "name": "NDCG@50",
+    "score": 0.4099
+  },
+  "NDCG@100": {
+    "name": "NDCG@100",
+    "score": 0.4209
+  }
+}
